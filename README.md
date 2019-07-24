@@ -9,16 +9,16 @@ Nosso sistema é personalizável e moldado às suas necessidades.
 O SGC garante uma gestão integrada e especializada, permite o controle de prazos, assegura entregas de qualidade, aumenta a eficiência na produtividade, oferece a inteligência de dados e ajuda a empresa a crescer de forma contínua e sustentável.
 Como principais vantagens temos: 
 - Gestão integrada e especializada;
--	Otimização de processos;
--	Prazos controlados;
--	Qualidade das informações;
--	Controle  tributário;
--	Inteligência de dados;
--	Eficiência e produtividade;
--	Controle de custos;
--	Redução de riscos;
--	Agilidade para mudanças;
--	Crescimento e rentabilidade;
--	Investimento com resultado;
+- Otimização de processos;
+- Prazos controlados;
+- Qualidade das informações;
+- Controle  tributário;
+- Inteligência de dados;
+- Eficiência e produtividade;
+- Controle de custos;
+- Redução de riscos;
+- Agilidade para mudanças;
+- Crescimento e rentabilidade;
+- Investimento com resultado;
 
 ERP em desenvolvimento
