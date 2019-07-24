@@ -1,4 +1,4 @@
-# == E R P  Clínica ==
+# == E R P  Clínica == Escrevi aqui
 Título: Sistema de Gestão de Clínicas
 Autor: Claudius Walber Nóbrega de Araújo
 Data:24/07/2019
